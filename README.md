@@ -1,7 +1,5 @@
 ### It's RabbitMask.
 
-<div align="center"><img width="150" height="150" src="https://avatars2.githubusercontent.com/u/37649548?s=460&u=d75b28311280a4134ac18f6060d0e1caff3868bc&v=4" /></div>
-
 - 🐰 我已经快要忘记
 - 🌈 当初为何选择这个ID
 - 
