@@ -17,10 +17,12 @@
 
 | C/C++                                                        |Java                                                         | Golang                                                        |
 | :----------------------------------------------------------- | :-----------------------------------------------------------| :-----------------------------------------------------------  |
-|✨ [SB-Actuator](https://github.com/rabbitmask/SB-Actuator) ![](https://img.shields.io/github/stars/rabbitmask/SB-Actuator) |✨ [BcryptCrack_Jenkins](https://github.com/rabbitmask/BcryptCrack_Jenkins) ![](https://img.shields.io/github/stars/rabbitmask/BcryptCrack_Jenkins) |✨ [MacOui](https://github.com/rabbitmask/MacOui) ![](https://img.shields.io/github/stars/rabbitmask/MacOui)
+|✨ [占个坑](https://github.com/rabbitmask/SB-Actuator) ![](https://img.shields.io/github/stars/rabbitmask/SB-Actuator) |✨ [BcryptCrack_Jenkins](https://github.com/rabbitmask/BcryptCrack_Jenkins) ![](https://img.shields.io/github/stars/rabbitmask/BcryptCrack_Jenkins) |✨ [MacOui](https://github.com/rabbitmask/MacOui) ![](https://img.shields.io/github/stars/rabbitmask/MacOui)
 
  
 | C#                                                           |Python                                                        | Rust                                                         |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-|✨ [SB-Actuator](https://github.com/rabbitmask/SB-Actuator) ![](https://img.shields.io/github/stars/rabbitmask/SB-Actuator) |✨ [BcryptCrack_Jenkins](https://github.com/rabbitmask/BcryptCrack_Jenkins) ![](https://img.shields.io/github/stars/rabbitmask/BcryptCrack_Jenkins) |✨ [XDecrypt](https://github.com/rabbitmask/XDecrypt) ![](https://img.shields.io/github/stars/rabbitmask/XDecrypt)
-| |✨ [BcryptCrack_Jenkins](https://github.com/rabbitmask/WeblogicScan) ![](https://img.shields.io/github/stars/rabbitmask/WeblogicScan) |
+|✨ [占个坑](https://github.com/rabbitmask/SB-Actuator) ![](https://img.shields.io/github/stars/rabbitmask/SB-Actuator) |✨ [WeblogicScan](https://github.com/rabbitmask/WeblogicScan) ![](https://img.shields.io/github/stars/rabbitmask/WeblogicScan) |✨ [XDecrypt](https://github.com/rabbitmask/XDecrypt) ![](https://img.shields.io/github/stars/rabbitmask/XDecrypt)
+| |✨ [SB-Actuator](https://github.com/rabbitmask/SB-Actuator) ![](https://img.shields.io/github/stars/rabbitmask/SB-Actuator) |
+| |✨ [AssetsHunter](https://github.com/rabbitmask/AssetsHunter) ![](https://img.shields.io/github/stars/rabbitmask/AssetsHunter) |
+ 
