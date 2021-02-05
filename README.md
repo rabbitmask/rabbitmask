@@ -14,5 +14,7 @@
 - 🌈 初心还是信仰都不重要了
 - 👻 至少这个面具会让我好受些
 
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbitmask&layout=compact&theme=radical" width="380">
+
 
 
