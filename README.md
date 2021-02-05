@@ -13,5 +13,5 @@
 - 👻 至少这个面具会让我好受些
 
 
-![rabbitmask's stats](https://github-readme-stats.vercel.app/api?username=rabbitmask&count_private=true&show_icons=true)
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=rabbitmask&show_icons=true&theme=radical" width="380">
