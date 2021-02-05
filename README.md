@@ -12,4 +12,11 @@
 - 🌈 初心还是信仰都不重要了
 - 👻 至少这个面具会让我好受些
 
-![rabbitmask's github stats](https://github-readme-stats.vercel.app/api?username=rabbitmask&count_private=true&show_icons=true)
+
+
+
+
+![rabbitmask's stats](https://github-readme-stats.vercel.app/api?username=rabbitmask&count_private=true&show_icons=true)
+
+
+![rabbitmask's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbitmask&layout=compact)
