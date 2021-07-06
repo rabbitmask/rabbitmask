@@ -20,4 +20,4 @@
 | |✨ [BcryptCrack](https://github.com/rabbitmask/BcryptCrack_Jenkins) ![](https://img.shields.io/github/stars/rabbitmask/BcryptCrack_Jenkins) |✨ [SB-Actuator](https://github.com/rabbitmask/SB-Actuator) ![](https://img.shields.io/github/stars/rabbitmask/SB-Actuator) | |✨ [Netstat](https://github.com/rabbitmask/Netstat) ![](https://img.shields.io/github/stars/rabbitmask/Netstat) |
 | | |✨ [AssetsHunter](https://github.com/rabbitmask/AssetsHunter) ![](https://img.shields.io/github/stars/rabbitmask/AssetsHunter) | | |
 | | |✨ [Jenkins_C*_C*](https://github.com/rabbitmask/Jenkins_Credentials_Crack) ![](https://img.shields.io/github/stars/rabbitmask/Jenkins_Credentials_Crack) | | |
-| | |✨ [Libra | 天秤座](https://github.com/rabbitmask/Libra) ![](https://img.shields.io/github/stars/rabbitmask/Libra) | | |
+| | |✨ [Libra 天秤座](https://github.com/rabbitmask/Libra) ![](https://img.shields.io/github/stars/rabbitmask/Libra) | | |
