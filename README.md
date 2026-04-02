@@ -20,10 +20,10 @@
 
 | 🌌 项目 | 🧭 定位 | ⚡ 简介 |
 |--------|--------|--------|
-| 🌓 [BeforeDawn](https://github.com/rabbitmask/BeforeDawn-docker) | 威胁前 | 攻击面收集 / 资产发现 / 情报聚合 |
-| 🌙 [EverNight](https://github.com/rabbitmask/EverNight-docker) | 威胁中 | 实时监控 / 日志分析 / 异常检测 |
-| 🌅 [Libra](https://github.com/rabbitmask/libra-pro-docker) | 威胁后 | 分析研判 / 风险评估 / 决策平衡 |
-| 🕸️ [Trace](https://github.com/rabbitmask/trace) | 全链路 | 溯源追踪 / 行为还原 / 攻击链分析 |
+| 🌓 [BeforeDawn](https://github.com/rabbitmask/BeforeDawn-docker) | 漏洞全生命周期管理平台 |
+| 🌙 [EverNight](https://github.com/rabbitmask/EverNight-docker) | 攻击面管理系统 |
+| 🌅 [Libra](https://github.com/rabbitmask/libra-pro-docker) | 网站云监测 |
+| 🕸️ [Trace](https://github.com/rabbitmask/trace) | 阿里云WAF 日志分析工具 |
 
 </div>
 
