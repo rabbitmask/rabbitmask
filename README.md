@@ -16,7 +16,7 @@
 
 ### 🛡️ SOC · Security Operations Collection
 
-<div align="center">
+<div>
 
 | 🌌 项目 | 🧭 定位 | ⚡ 简介 |
 |--------|--------|--------|
