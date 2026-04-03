@@ -13,7 +13,7 @@
 - 🌈 初心还是信仰都不重要了
 - 👻 至少这个面具会让我好受些
 
-### 🛡️ SOC · Security Operations Collection
+### 🛡️ SOC · Security Operations Center
 
 </div>
 <div>
